@@ -25,7 +25,7 @@ The ready-to-run site is included in `dist/`. Once Node.js is installed, you can
 
 ### Start with an empty collection
 
-If you cloned a copy that contains someone else's categories or covers, or you want to start over, use the reset script **before starting the server**. First preview exactly which local paths it will clear:
+This repository tracks the saved collection, so a clone includes its manga, categories, and covers. If you want a blank shelf, use the reset script **before starting the server**. First preview exactly which local paths it will clear:
 
 ```sh
 node scripts/reset-data.mjs
@@ -123,7 +123,7 @@ Drag the **ขนาดการ์ด** (Card size) slider at the bottom right 
 | `data/covers/`        | Local copies of the covers currently used by manga in your collection. Uploaded files and images supplied by URL are copied here automatically, so the displayed cover does not depend on its original link or file path. Unused covers are removed automatically. |
 | `data/cover-staging/` | Temporary uploads awaiting a save; stale files are cleaned up automatically.                                                                                                                                                                                       |
 
-**Moving to another computer?** Copy `data/manga.txt`, `data/config.json`, and `data/covers/` together. Your collection data is stored on the computer running the server. `data/manga.txt` is ignored by Git, so downloading or cloning the project does not bring along someone else's reading history.
+**Moving to another computer?** Copy `data/manga.txt`, `data/config.json`, and `data/covers/` together, or use a Git commit containing all three as a backup snapshot. Your collection data is stored on the computer running the server. These paths are tracked by Git, so anyone who can access the repository can also see the collection saved in its history. `data/cover-staging/` remains ignored because it only holds temporary uploads.
 
 When you return to the browser tab after it has been hidden for at least 1.5 seconds, the page refreshes once to pick up local changes. An open editor or in-progress chapter edit is left alone.
 

@@ -1,0 +1,25 @@
+{
+  "cardSize": 154,
+  "categories": [
+    {
+      "id": "main",
+      "name": "หมวดหลัก"
+    },
+    {
+      "id": "bfb4687e-5b9e-45b4-bf64-acf4e6f1b41e",
+      "name": "รอ season ใหม่"
+    },
+    {
+      "id": "9a1d589f-0508-4081-8e6e-be5166f92401",
+      "name": "ดองไว้"
+    },
+    {
+      "id": "d95ad5d9-ab7f-4a8c-912c-b1b1af3b977e",
+      "name": "ดอง level max"
+    },
+    {
+      "id": "a963f0af-aa24-49cf-8f62-d4571e11d97a",
+      "name": "เก็บ เลิกอ่านเเล้ว"
+    }
+  ]
+}

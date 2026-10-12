@@ -1,0 +1,112 @@
+[
+  {
+    "id": "6447bee0-7511-4a00-bdec-bed2fa809c85",
+    "title": "I Married the Dragon I Killed",
+    "chapter": 18,
+    "cover": "/covers/f26833cc829428c1fae2ee520338aa6184cf99c2947c4f6ecc7e64e12db53048.avif",
+    "sourceUrl": "https://readtoon.com/content/adq5lkh6",
+    "note": "",
+    "categoryId": "main",
+    "createdAt": "2026-10-12T15:57:39.302Z",
+    "updatedAt": "2026-10-12T16:04:38.041Z"
+  },
+  {
+    "id": "c5295222-dd7b-4d16-b47d-4f60848605cc",
+    "title": "The Academy Villain Opens a Convenience Store",
+    "chapter": 18,
+    "cover": "/covers/198a8f08e676c1996935c5ad21da48121d271c8ee43bc1e6d27a7ec4f96dd99d.jpg",
+    "sourceUrl": "https://duketoon.com/content/the-academy-villain-opens-a-convenience-store",
+    "note": "",
+    "categoryId": "main",
+    "createdAt": "2026-10-12T15:59:04.696Z",
+    "updatedAt": "2026-10-12T16:05:14.764Z"
+  },
+  {
+    "id": "018f7324-4dc5-4fd2-802a-3452d04a461b",
+    "title": "Copying Skill with Affinity",
+    "chapter": 9,
+    "cover": "/covers/0d2f5380f22fda3c0f5d9b4ae5aefec46c7e515929ee623bae19bca7e7e0f1b0.jpg",
+    "sourceUrl": "https://readtoon.com/content/o5h50tu2",
+    "note": "",
+    "categoryId": "main",
+    "createdAt": "2026-10-12T16:00:32.334Z",
+    "updatedAt": "2026-10-12T16:05:43.095Z"
+  },
+  {
+    "id": "02345604-e769-4edc-a0ab-b9a573d9db31",
+    "title": "Magic Academy’s Genius Blinker",
+    "chapter": 100,
+    "cover": "/covers/8784821619953b1c5684bc589c6f0daaf6137f9548ef60d0303e47439ed6588e.jpg",
+    "sourceUrl": "https://www.go-manga.com/magic-academys-blinker/",
+    "note": "",
+    "categoryId": "bfb4687e-5b9e-45b4-bf64-acf4e6f1b41e",
+    "createdAt": "2026-10-12T16:02:56.076Z",
+    "updatedAt": "2026-10-12T16:06:47.102Z"
+  },
+  {
+    "id": "2f622bc0-3f38-4b14-a5c9-b0f85ad75f84",
+    "title": "Raising Villains the Right Way",
+    "chapter": 56,
+    "cover": "/covers/d7fc2c54fd18f84744e355cb46dea8e631f8fb3ed5884402eb474ee50186bbf9.jpg",
+    "sourceUrl": "https://www.go-manga.com/raising-villains-right-way/",
+    "note": "",
+    "categoryId": "9a1d589f-0508-4081-8e6e-be5166f92401",
+    "createdAt": "2026-10-12T15:59:52.458Z",
+    "updatedAt": "2026-10-12T16:07:53.162Z"
+  },
+  {
+    "id": "1c55cd3c-9fef-4d51-879d-fa818f640889",
+    "title": "I Reincarnated to Legally Beat People Up as a Civil Servant",
+    "chapter": 20,
+    "cover": "/covers/17531f8918eddafc6aecd8133e28eb82ed6566600d6e7dcc30972af2ced1260e.jpg",
+    "sourceUrl": "https://duketoon.com/content/i-reincarnated-to-legally-beat-people-up-as-a-civil-servant",
+    "note": "",
+    "categoryId": "9a1d589f-0508-4081-8e6e-be5166f92401",
+    "createdAt": "2026-10-12T16:00:51.662Z",
+    "updatedAt": "2026-10-12T16:08:24.246Z"
+  },
+  {
+    "id": "eb5d4e4b-9382-48fb-8ce2-5514cde30bdb",
+    "title": "I Took Over The Academy With a Single Sashimi Knife",
+    "chapter": 90,
+    "cover": "/covers/7be472e8bbba57f949afa3f62dc458818e4efcc822797bd7c07c3d02b7ea88a3.jpg",
+    "sourceUrl": "",
+    "note": "",
+    "categoryId": "9a1d589f-0508-4081-8e6e-be5166f92401",
+    "createdAt": "2026-10-12T16:02:17.484Z",
+    "updatedAt": "2026-10-12T16:08:48.304Z"
+  },
+  {
+    "id": "54ed7cfd-96b2-4a40-954e-ffce176a3e97",
+    "title": "The Lord Who Levels Up by Devouring",
+    "chapter": 0,
+    "cover": "/covers/c97e6e646802c887f7ed6237b4754e42de9d53c9b6532c1d13775ecc217ae72f.webp",
+    "sourceUrl": "https://readtoon.com/content/xns9glzl",
+    "note": "",
+    "categoryId": "9a1d589f-0508-4081-8e6e-be5166f92401",
+    "createdAt": "2026-10-12T16:11:06.245Z",
+    "updatedAt": "2026-10-12T16:11:06.245Z"
+  },
+  {
+    "id": "35f7ff83-86f3-4d4d-91f7-592f6b1b6de7",
+    "title": "Mob Shisai dakedo, Kono Sekai ga Otome Game dato Kizuita node Heroine o Ikusei Shimasu",
+    "chapter": 0,
+    "cover": "/covers/c7fc5740d9e1917edc3596e2d573dd60b2653a31a09fe5c2c854289724a24152.jpg",
+    "sourceUrl": "",
+    "note": "",
+    "categoryId": "d95ad5d9-ab7f-4a8c-912c-b1b1af3b977e",
+    "createdAt": "2026-10-12T16:11:58.475Z",
+    "updatedAt": "2026-10-12T16:11:58.475Z"
+  },
+  {
+    "id": "9893cd47-2e79-4dc6-82b8-9ebffc232a77",
+    "title": "Return of the Mad Demon",
+    "chapter": 208,
+    "cover": "/covers/e2703b41774c64845c3c98972658ac86b8b01636bc3e8ea14f192990394a6e1d.jpg",
+    "sourceUrl": "https://readtoon.com/content/214ygduo",
+    "note": "",
+    "categoryId": "d95ad5d9-ab7f-4a8c-912c-b1b1af3b977e",
+    "createdAt": "2026-10-12T16:13:17.349Z",
+    "updatedAt": "2026-10-12T16:13:17.349Z"
+  }
+]

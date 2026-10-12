@@ -20,10 +20,11 @@ This file is a handoff for agents working in this folder. Start with `README.md`
 
 ## Data model and care
 
-- `data/manga.txt` is a JSON array containing manga records and card order. It is ignored by Git and contains the user's live collection. Do not reset, replace, or commit it.
-- `data/config.json` stores category names/order and card width. Treat the current file as user state; do not replace it with sample settings.
-- `data/covers/` holds local copies of covers in use. Uploaded and URL-sourced images are managed by the server. Cover cleanup removes unreferenced files, so avoid manually deleting or renaming files here. `data/cover-staging/` holds temporary uploads and is ignored by Git.
+- `data/manga.txt` is a tracked JSON array containing manga records and card order. It contains the user's live collection. Do not reset or replace it unless the user explicitly requests that.
+- `data/config.json` is tracked and stores category names/order and card width. Treat the current file as user state; do not replace it with sample settings.
+- `data/covers/` is tracked and holds local copies of covers in use. Uploaded and URL-sourced images are managed by the server. Cover cleanup removes unreferenced files, so avoid manually deleting or renaming files here. `data/cover-staging/` holds temporary uploads and is ignored by Git.
 - When backing up or moving a collection, preserve `data/manga.txt`, `data/config.json`, and `data/covers/` together.
+- When committing a collection backup, include those three paths in the same commit. Do not include `data/cover-staging/`.
 - Prefer a disposable data copy or read-only checks for experiments. Do not create test manga or categories in the user's live collection unless the task requires it, and clean up any test data you add.
 
 ## Product behavior to preserve
