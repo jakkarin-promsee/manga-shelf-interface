@@ -148,3 +148,7 @@ npm start        # serve the built site
 | `docs/`                         | Screenshots used in this README.                                     |
 
 Built for the simple moment when you have several ongoing series and just need to know **what you were reading and which chapter you finished**.
+
+## License
+
+Original code and documentation authored by Jakkarin Promsee are licensed under the [MIT License](LICENSE). Third-party code, assets, datasets, and other materials are not covered by this license; their original terms apply.
